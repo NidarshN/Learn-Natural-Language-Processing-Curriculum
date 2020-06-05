@@ -112,3 +112,4 @@ Join the #NLP_curriculum channel in our Slack channel to find one http://wizards
 - Policy gradient text summarization https://github.com/yaserkl/RLSeq2Seq#policy-gradient-w-self-critic-learning-and-temporal-attention-and-intra-decoder-attention reimplment in pytorch
 
 
+Wonderful
